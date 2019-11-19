@@ -1,3 +1,3 @@
-# Name: Dat
+# Name: Huy
 # Hobby: Games
-# Job: Trainer
+# Job: Open
